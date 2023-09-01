@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Repository.Entities.Team>
+
+@{
+    ViewData["Title"] = "Team";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@await Component.InvokeAsync("Team")

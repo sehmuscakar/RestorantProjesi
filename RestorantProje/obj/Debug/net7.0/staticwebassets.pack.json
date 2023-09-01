@@ -1,0 +1,2957 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RestorantProje.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RestorantProje.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\Readme.txt",
+      "PackagePath": "staticwebassets\\AdminTema\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\quill\\quill.core.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\quill\\quill.core.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\quill\\quill.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\quill\\quill.min.js.map",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\quill\\quill.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\template\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\template\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\AdminTema\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\charts-apexcharts.html",
+      "PackagePath": "staticwebassets\\AdminTema\\charts-apexcharts.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\charts-chartjs.html",
+      "PackagePath": "staticwebassets\\AdminTema\\charts-chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\charts-echarts.html",
+      "PackagePath": "staticwebassets\\AdminTema\\charts-echarts.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-accordion.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-alerts.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-alerts.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-badges.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-badges.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-breadcrumbs.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-buttons.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-cards.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-cards.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-carousel.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-list-group.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-list-group.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-modal.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-modal.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-pagination.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-pagination.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-progress.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-spinners.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-tabs.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\components-tooltips.html",
+      "PackagePath": "staticwebassets\\AdminTema\\components-tooltips.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\forms-editors.html",
+      "PackagePath": "staticwebassets\\AdminTema\\forms-editors.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\forms-elements.html",
+      "PackagePath": "staticwebassets\\AdminTema\\forms-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\forms-layouts.html",
+      "PackagePath": "staticwebassets\\AdminTema\\forms-layouts.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\forms-validation.html",
+      "PackagePath": "staticwebassets\\AdminTema\\forms-validation.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\AdminTema\\forms\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\AdminTema\\forms\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\icons-bootstrap.html",
+      "PackagePath": "staticwebassets\\AdminTema\\icons-bootstrap.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\AdminTema\\icons-boxicons.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\icons-remix.html",
+      "PackagePath": "staticwebassets\\AdminTema\\icons-remix.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\index.html",
+      "PackagePath": "staticwebassets\\AdminTema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\pages-blank.html",
+      "PackagePath": "staticwebassets\\AdminTema\\pages-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\pages-contact.html",
+      "PackagePath": "staticwebassets\\AdminTema\\pages-contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\pages-error-404.html",
+      "PackagePath": "staticwebassets\\AdminTema\\pages-error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\pages-faq.html",
+      "PackagePath": "staticwebassets\\AdminTema\\pages-faq.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\pages-login.html",
+      "PackagePath": "staticwebassets\\AdminTema\\pages-login.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\pages-register.html",
+      "PackagePath": "staticwebassets\\AdminTema\\pages-register.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\tables-data.html",
+      "PackagePath": "staticwebassets\\AdminTema\\tables-data.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\tables-general.html",
+      "PackagePath": "staticwebassets\\AdminTema\\tables-general.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\AdminTema\\users-profile.html",
+      "PackagePath": "staticwebassets\\AdminTema\\users-profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\3891784-200.png",
+      "PackagePath": "staticwebassets\\Img\\3891784-200.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\62f5459b4e3fe1135067c416.webp",
+      "PackagePath": "staticwebassets\\Img\\62f5459b4e3fe1135067c416.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\71897.png",
+      "PackagePath": "staticwebassets\\Img\\71897.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\Agatha-Restaurant-e1573538084957.jpg",
+      "PackagePath": "staticwebassets\\Img\\Agatha-Restaurant-e1573538084957.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\Alabalıkızgara.jpg",
+      "PackagePath": "staticwebassets\\Img\\Alabalıkızgara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\IzgaraMezgit.jpg",
+      "PackagePath": "staticwebassets\\Img\\IzgaraMezgit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\Kurumsal1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Kurumsal1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\PalamutIzgara.jpg",
+      "PackagePath": "staticwebassets\\Img\\PalamutIzgara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\Türk-Yemekleri.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Türk-Yemekleri.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\adanaızgara.jpg",
+      "PackagePath": "staticwebassets\\Img\\adanaızgara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\asure.webp",
+      "PackagePath": "staticwebassets\\Img\\asure.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\atom.webp",
+      "PackagePath": "staticwebassets\\Img\\atom.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\baklava.jpg",
+      "PackagePath": "staticwebassets\\Img\\baklava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\baklavaçeşitleri.webp",
+      "PackagePath": "staticwebassets\\Img\\baklavaçeşitleri.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\balıkızgara.jpeg",
+      "PackagePath": "staticwebassets\\Img\\balıkızgara.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\bayanasci.jfif",
+      "PackagePath": "staticwebassets\\Img\\bayanasci.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\bayangarson.jpg",
+      "PackagePath": "staticwebassets\\Img\\bayangarson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\bayanmutfakyardımcı.png",
+      "PackagePath": "staticwebassets\\Img\\bayanmutfakyardımcı.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\bayanprofil.jpeg",
+      "PackagePath": "staticwebassets\\Img\\bayanprofil.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\cigerızgara.jpeg",
+      "PackagePath": "staticwebassets\\Img\\cigerızgara.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\danapirzola.webp",
+      "PackagePath": "staticwebassets\\Img\\danapirzola.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\erkekaşçı.jpg",
+      "PackagePath": "staticwebassets\\Img\\erkekaşçı.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\erkekgarson.jfif",
+      "PackagePath": "staticwebassets\\Img\\erkekgarson.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\erkekmutfakyardımcı.png",
+      "PackagePath": "staticwebassets\\Img\\erkekmutfakyardımcı.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\erkekprofil.png",
+      "PackagePath": "staticwebassets\\Img\\erkekprofil.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\galayemek.jpg",
+      "PackagePath": "staticwebassets\\Img\\galayemek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\gazliicecekler.png",
+      "PackagePath": "staticwebassets\\Img\\gazliicecekler.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\iftar.jpg",
+      "PackagePath": "staticwebassets\\Img\\iftar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\isyemekleri.jpg",
+      "PackagePath": "staticwebassets\\Img\\isyemekleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\izgarakofte1.webp",
+      "PackagePath": "staticwebassets\\Img\\izgarakofte1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\izgaralevrek.webp",
+      "PackagePath": "staticwebassets\\Img\\izgaralevrek.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\izgarasardalya.jpg",
+      "PackagePath": "staticwebassets\\Img\\izgarasardalya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\izgarasomon.jpg",
+      "PackagePath": "staticwebassets\\Img\\izgarasomon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kalsiklahmacun.jpg",
+      "PackagePath": "staticwebassets\\Img\\kalsiklahmacun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kanatıızgara.png",
+      "PackagePath": "staticwebassets\\Img\\kanatıızgara.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\karisikizgara.png",
+      "PackagePath": "staticwebassets\\Img\\karisikizgara.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kasarlipide.jpg",
+      "PackagePath": "staticwebassets\\Img\\kasarlipide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kasarlılahmacun.jpg",
+      "PackagePath": "staticwebassets\\Img\\kasarlılahmacun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kazandibitatli.jpg",
+      "PackagePath": "staticwebassets\\Img\\kazandibitatli.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kiymalıpide.jpg",
+      "PackagePath": "staticwebassets\\Img\\kiymalıpide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kurumsal2.jpg",
+      "PackagePath": "staticwebassets\\Img\\kurumsal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kurumsal3.jpg",
+      "PackagePath": "staticwebassets\\Img\\kurumsal3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kurumsal4.jpg",
+      "PackagePath": "staticwebassets\\Img\\kurumsal4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kuzucopsis.webp",
+      "PackagePath": "staticwebassets\\Img\\kuzucopsis.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kuzuincik.jpg",
+      "PackagePath": "staticwebassets\\Img\\kuzuincik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\kuşbaşılıpide.jpg",
+      "PackagePath": "staticwebassets\\Img\\kuşbaşılıpide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\lahmacun.webp",
+      "PackagePath": "staticwebassets\\Img\\lahmacun.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\limonata.jpg",
+      "PackagePath": "staticwebassets\\Img\\limonata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\mardin.jpg",
+      "PackagePath": "staticwebassets\\Img\\mardin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\muzlusut.jfif",
+      "PackagePath": "staticwebassets\\Img\\muzlusut.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\paketservis.gif",
+      "PackagePath": "staticwebassets\\Img\\paketservis.gif"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\patateslipide.jpg",
+      "PackagePath": "staticwebassets\\Img\\patateslipide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\peynirli-kadayif.gif",
+      "PackagePath": "staticwebassets\\Img\\peynirli-kadayif.gif"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\peynirlipide1.webp",
+      "PackagePath": "staticwebassets\\Img\\peynirlipide1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\pidelahmacun.jpeg",
+      "PackagePath": "staticwebassets\\Img\\pidelahmacun.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\png-transparent-kadapa-district-cashier-profession-job-cashier-modern-s-angle-logo-employment.png",
+      "PackagePath": "staticwebassets\\Img\\png-transparent-kadapa-district-cashier-profession-job-cashier-modern-s-angle-logo-employment.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\pogaca.jpg",
+      "PackagePath": "staticwebassets\\Img\\pogaca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\sandiviç.jpg",
+      "PackagePath": "staticwebassets\\Img\\sandiviç.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\sebzelipide.webp",
+      "PackagePath": "staticwebassets\\Img\\sebzelipide.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\sef.png",
+      "PackagePath": "staticwebassets\\Img\\sef.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\serpmekahvalti.jpg",
+      "PackagePath": "staticwebassets\\Img\\serpmekahvalti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\soğukiçecek.jpg",
+      "PackagePath": "staticwebassets\\Img\\soğukiçecek.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\sucuklupide.jpg",
+      "PackagePath": "staticwebassets\\Img\\sucuklupide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\sutlac.jpg",
+      "PackagePath": "staticwebassets\\Img\\sutlac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\tandirkebab.webp",
+      "PackagePath": "staticwebassets\\Img\\tandirkebab.webp"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\tavuksis.jpg",
+      "PackagePath": "staticwebassets\\Img\\tavuksis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\temizlikçi.jpg",
+      "PackagePath": "staticwebassets\\Img\\temizlikçi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\çipuraızgara.jpg",
+      "PackagePath": "staticwebassets\\Img\\çipuraızgara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\Img\\ızgara.jpg",
+      "PackagePath": "staticwebassets\\Img\\ızgara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\RestoranTema\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\RestoranTema\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\about.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\booking.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\booking.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\bootstrap-restaurant-template.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\bootstrap-restaurant-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\contact.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\css\\style.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\hero.png",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\hero.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-5.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-6.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-7.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\menu-8.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\menu-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\img\\video.jpg",
+      "PackagePath": "staticwebassets\\RestoranTema\\img\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\index.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\js\\main.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\RestoranTema\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\menu.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\menu.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\RestoranTema\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\service.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\team.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\RestoranTema\\testimonial.html",
+      "PackagePath": "staticwebassets\\RestoranTema\\testimonial.html"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Şehmus\\Desktop\\MyTigrisTech\\RestorantProje\\RestorantProje\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RestorantProje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RestorantProje.props",
+      "PackagePath": "build\\RestorantProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RestorantProje.props",
+      "PackagePath": "buildMultiTargeting\\RestorantProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RestorantProje.props",
+      "PackagePath": "buildTransitive\\RestorantProje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

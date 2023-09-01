@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Anasayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@await Component.InvokeAsync("Kurumsal")
+
+@await Component.InvokeAsync("Hizmet")
+
+@await Component.InvokeAsync("Menu")
+
+@await Component.InvokeAsync("Team")
+
+@await Component.InvokeAsync("Testimonial")
+
+

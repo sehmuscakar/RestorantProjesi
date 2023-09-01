@@ -1,0 +1,64 @@
+﻿@model Repository.Entities.Contact
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<h4>İletişim Düzenleme Paneli</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mail" class="control-label"></label>
+                <input asp-for="Mail" class="form-control" />
+                <span asp-validation-for="Mail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message" class="control-label"></label>
+                <input asp-for="Message" class="form-control" />
+                <span asp-validation-for="Message" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Subject" class="control-label"></label>
+                <input asp-for="Subject" class="form-control" />
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BokkingContact" class="control-label"></label>
+                <input asp-for="BokkingContact" class="form-control" />
+                <span asp-validation-for="BokkingContact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GeneralContact" class="control-label"></label>
+                <input asp-for="GeneralContact" class="form-control" />
+                <span asp-validation-for="GeneralContact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TechnicalContact" class="control-label"></label>
+                <input asp-for="TechnicalContact" class="form-control" />
+                <span asp-validation-for="TechnicalContact" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Güncelle" class="btn btn-danger" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-primary" asp-action="Index">Listeye Geri Dön</a>
+</div>
+

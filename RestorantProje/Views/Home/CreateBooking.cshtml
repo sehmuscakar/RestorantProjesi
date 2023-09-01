@@ -1,0 +1,81 @@
+﻿@model Repository.Entities.Booking
+@{
+    ViewData["Title"] = "CreateBooking";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Reservation Start -->
+<div class="container-xxl py-5 px-0 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="row g-0">
+        <div class="col-md-6">
+            <img src="~/Img/kurumsal2.jpg" alt="" class="form control" height="600"  width="550"/>
+            @*<div class="video">
+                <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
+                    <span></span>
+                </button>
+            </div>*@
+        </div>
+        <div class="col-md-6 bg-dark d-flex align-items-center">
+            <div class="p-5 wow fadeInUp" data-wow-delay="0.2s">
+                <h5 class="section-title ff-secondary text-start text-primary fw-normal">Rezervasyon</h5>
+                <h1 class="text-white mb-4">Online olarak Yerinizi Ayırtın</h1>
+                <form  asp-action="CreateBooking" method="post">
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <div class="form-floating">
+                                <input  asp-for="Name" class="form-control" placeholder="Adınız">
+                                <label asp-for="Name">Adınız</label>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-floating">
+                                <input  asp-for="Mail" class="form-control"  placeholder="E-Posta">
+                                <label asp-for="Mail">Mailiniz</label>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-floating date" id="date3" data-target-input="nearest">
+                                <input asp-for="Time" class="form-control datetimepicker-input"  placeholder="Tarih-Zaman"  />
+                                <label asp-for="Time">Tarih</label>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-floating">
+                                <input asp-for="PeopleCount" class="form-control" placeholder="kişi sayısı">
+                                <label asp-for="PeopleCount">Kişi Sayısı</label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="form-floating">
+                                <textarea asp-for="description" class="form-control" placeholder="Özel İstek"  style="height: 100px"></textarea>
+                                <label asp-for="description">Rezervasyon ile ilgili Açıklama</label>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <button class="btn btn-primary w-100 py-3" type="submit">Şimdi Yer Ayırt</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Youtube Video</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <!-- 16:9 aspect ratio -->
+                <div class="ratio ratio-16x9">
+                    <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
+                            allow="autoplay"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Reservation Start -->
+

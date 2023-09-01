@@ -1,0 +1,17 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\bin\Debug\net7.0\Core.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\bin\Debug\net7.0\Core.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\RestorantProje\Repository\obj\Debug\net7.0\ref\Repository.dll

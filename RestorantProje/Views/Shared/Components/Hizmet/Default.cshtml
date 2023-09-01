@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Repository.Entities.Hizmet>
+<!-- Service Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h5 class="section-title ff-secondary text-center text-primary fw-normal">Hizmetlerimiz</h5>
+            <h1 class="mb-5">Lezzet Restoran</h1>
+        </div>
+        <div class="row g-4">
+             @foreach (var item in Model)
+                        {    
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+              
+                <div class="service-item rounded pt-3">
+                 
+                    <div class="p-4">
+                            <img src="~/Img/@item.Image" alt="" class="form control" height="100" width="260" />
+                        <i class="fa fa-3x fa-user-tie text-primary mb-4"></i>
+                        <h5>@item.Header</h5>
+                        <p>@item.Description</p>
+                      
+                    </div>
+                   
+                </div>
+               
+            </div>
+            }
+        </div>
+    </div>
+</div>
+                      
+<!-- Service End -->

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Repository.Entities.About>
+
+<!-- About Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-6">
+                    <div class="row g-3">
+                        <div class="col-6 text-start">
+                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="~/Img/@item.Image1">
+                        </div>
+                        <div class="col-6 text-start">
+                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="~/Img/@item.Image2" style="margin-top: 25%;">
+                        </div>
+                        <div class="col-6 text-end">
+                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="~/Img/@item.Image3">
+                        </div>
+                        <div class="col-6 text-end">
+                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="~/Img/@item.Image4">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h5 class="section-title ff-secondary text-start text-primary fw-normal">Hakkımızda</h5>
+
+                    <p class="mb-4">@item.Description</p>
+                    <h5 class="section-title ff-secondary text-start text-primary fw-normal">Vizyonumuz</h5>
+                    <p class="mb-4">@item.Mission</p>
+                    <h5 class="section-title ff-secondary text-start text-primary fw-normal">Misyonummuz</h5>
+                    <p class="mb-4">@item.vision</p>
+                    <div class="row g-4 mb-4">
+                        <div class="col-sm-6">
+                            <div class="d-flex align-items-center border-start border-5 border-primary px-3">
+                                <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">@item.Experience</h1>
+                                <div class="ps-4">
+                                    <p class="mb-0">Yıldır  </p>
+                                    <h6 class="text-uppercase mb-0">Deneyimliyiz</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="d-flex align-items-center border-start border-5 border-primary px-3">
+                                <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">@item.Chefs</h1>
+                                <div class="ps-4">
+                                    <p class="mb-0">Profesyonel</p>
+                                    <h6 class="text-uppercase mb-0">Master Şeflerimiz</h6>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="btn btn-primary py-3 px-5 mt-2" href="">Devamını Oku</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<!-- About End -->
